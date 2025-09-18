@@ -1,3 +1,5 @@
+/*Формулировка пазла по ссылке https://www.codingame.com/training/easy/power-of-thor-episode-1 */
+
 #include <iostream>
 #include <string>
 #include <vector>
